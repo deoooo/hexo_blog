@@ -1,0 +1,13 @@
+# dependencies
+node_modules/
+
+.git
+
+# IDE
+/.idea
+/.awcache
+/.vscode
+*.code-workspace
+
+public/
+
